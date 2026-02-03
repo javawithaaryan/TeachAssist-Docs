@@ -1,8 +1,8 @@
-# TechAssist Requirements Document
+# TeachAssist Requirements Document
 
 ## 1. Project Overview
 
-TechAssist is an AI-powered teaching assistant designed to reduce teacher workload and improve student learning outcomes in educational institutions. The platform automates time-consuming tasks like grading and feedback generation while providing personalized learning insights for students.
+TeachAssist is an AI-powered teaching assistant designed to reduce teacher workload and improve student learning outcomes in educational institutions. The platform automates time-consuming tasks like grading and feedback generation while providing personalized learning insights for students.
 
 **Target Users:**
 - Teachers and educators in schools and colleges
@@ -10,7 +10,7 @@ TechAssist is an AI-powered teaching assistant designed to reduce teacher worklo
 - Educational institutions looking to improve teaching efficiency
 
 **Core Problem Solved:**
-TechAssist addresses the overwhelming administrative burden on teachers, including manual grading, repetitive feedback writing, and lack of time for personalized student support. It transforms these manual processes into automated, intelligent workflows that free up teachers to focus on actual teaching.
+TeachAssist addresses the overwhelming administrative burden on teachers, including manual grading, repetitive feedback writing, and lack of time for personalized student support. It transforms these manual processes into automated, intelligent workflows that free up teachers to focus on actual teaching.
 
 ## 2. Problem Statement
 
@@ -207,4 +207,5 @@ Enterprise-grade security protecting student information and academic records. C
 
 ---
 
-*This requirements document serves as the foundation for TechAssist development and will be updated as the project evolves based on user feedback and technical discoveries.*
+
+*This requirements document serves as the foundation for TeachAssist development and will be updated as the project evolves based on user feedback and technical discoveries.*
