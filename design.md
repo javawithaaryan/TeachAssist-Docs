@@ -275,4 +275,5 @@ PostgreSQL database with Prisma ORM for structured data storage. AWS S3 for file
 ---
 
 
-*This design document provides the technical foundation for TechAssist development and will be refined based on implementation discoveries and user feedback during the hackathon.*
+*This design document provides the technical foundation for TeachAssist development and will be refined based on implementation discoveries and user feedback during the hackathon.*
+
