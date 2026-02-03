@@ -1,8 +1,8 @@
-# TechAssist System Design Document
+# TeachAssist System Design Document
 
 ## 1. System Overview
 
-TechAssist is an AI-powered teaching assistant that automates the grading process and provides personalized feedback to students. The system operates as a web-based platform where teachers upload assignments, AI processes and evaluates student submissions, and both teachers and students access results through role-specific dashboards.
+TeachAssist is an AI-powered teaching assistant that automates the grading process and provides personalized feedback to students. The system operates as a web-based platform where teachers upload assignments, AI processes and evaluates student submissions, and both teachers and students access results through role-specific dashboards.
 
 **Core User Interactions:**
 - Teachers upload assignment rubrics and student submissions
@@ -16,7 +16,7 @@ Teachers interact with a web interface to manage assignments and review AI-gener
 
 ## 2. Architecture Overview
 
-TechAssist follows a layered architecture pattern with clear separation of concerns:
+TeachAssist follows a layered architecture pattern with clear separation of concerns:
 
 **Presentation Layer (Frontend):**
 React-based web application providing user interfaces for teachers, students, and administrators. Handles user interactions, data visualization, and real-time updates.
@@ -273,5 +273,6 @@ PostgreSQL database with Prisma ORM for structured data storage. AWS S3 for file
 - Adaptive learning recommendations based on individual progress patterns
 
 ---
+
 
 *This design document provides the technical foundation for TechAssist development and will be refined based on implementation discoveries and user feedback during the hackathon.*
